@@ -1,0 +1,145 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #363636;
+    padding: 26px 0 32px 0;
+    text-align: center;
+}
+
+.menu ul li {
+    display: inline-block;
+    vertical-align: middle;
+    margin: 0 25.5px;
+}
+
+.menu ul li a {
+    font-size: 15px;
+    color: rgb(255, 255, 255);
+    line-height: 1;
+    text-decoration: none;
+}
+
+.main {
+    padding: 102px 0 145px 0;
+}
+
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.main-info {
+    display: inline-block;
+    vertical-align: middle;
+    max-width: 524px;
+    margin-right: 190px;
+}
+
+.main-image {
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.main h1 {
+    font-size: 60px;
+    color: rgb(54, 54, 54);
+    font-weight: bold;
+    line-height: 1.222;
+    margin-bottom: 50px;
+}
+
+.main-text {
+    font-size: 17px;
+    color: rgb(57, 39, 3);
+    line-height: 1.471;
+    max-width: 488px;
+    margin-bottom: 97px;
+}
+
+.button {
+    width: 232px;
+    text-align: center;
+    padding: 22px;
+    border: 0;
+    background-color: #aaccdc;
+    font-size: 17px;
+    color: rgb(255, 255, 255);
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.main .container {
+    font-size: 0;
+}
+
+.about {
+    background-color: #b99d7f;
+    padding: 130px 0 143px 0;
+}
+
+.about-items {
+    margin-left: -47px;
+    margin-right: -47px;
+    font-size: 0;
+}
+
+.about-item {
+    max-width: 338px;
+    font-size: 0;
+    margin: 27px 47px;
+    display: inline-block;
+}
+
+.about h2 {
+    font-size: 45px;
+    color: rgb(255, 255, 255);
+    font-weight: bold;
+    line-height: 1.222;
+    text-align: center;
+    margin-bottom: 36px;
+}
+
+.about-item-image {
+    display: inline-block;
+    vertical-align: middle;
+    width: 100px;
+    height: 100px;
+    text-align: center;
+}
+
+.about-item-text {
+    display: inline-block;
+    vertical-align: middle;
+    margin-left: 15px;
+    font-size: 15px;
+    color: rgb(255, 255, 255);
+    line-height: 1.471;
+    width: 220px;
+}
+
+.footer {
+    background-color: #363636;
+    padding: 30px 0 33px 0;
+    font-size: 18px;
+    color: rgb(255, 255, 255);
+}
+
+.footer-logo {
+    display: inline-block;
+    vertical-align: center;
+}
+
+.footer-time {
+    display: inline-block;
+    margin-left: 295px;
+    vertical-align: center;
+}
+
+.footer-phones {
+    display: inline-block;
+    vertical-align: center;
+    margin-left: 289px;
+}
